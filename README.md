@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kospipl" alt="kospipl" /></a> </p>
 
-- 🔭 Pracuje nad projektem do tworzenia drinków [Do_Drink_App](https://github.com/KospiPL/Do_Drink_App)
+- 🔭 Pracuje nad projektem do Sprwdzania ewidanciji czasu pracy połączonego z AZURE DevOps [Do_Drink_App](https://github.com/KospiPL/Do_Drink_App)
 
 - 🌱 Obecnie się uczę **.Net , Oracle**
 
